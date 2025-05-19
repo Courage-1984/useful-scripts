@@ -22,6 +22,26 @@ Sections:
 
 - [move_video_with_sound.py](./Video%20w%20Audio/move_video_with_sound.py)
 
+## [De-dupe Images](./De-dupe%20Images/README.md)
+
+- [imagededup](https://github.com/idealo/imagededup)
+- [Czkawka](https://github.com/qarmin/czkawka)
+- [Kim's 'De-dupe Images'](https://github.com/Kim2091/helpful-scripts/tree/main/De-dupe%20Images)
+
+## [Image Quality](./Image%20Quality/README.md)
+
+- [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch)
+
+## [Native Resolution](./Native%20Resolution/README.md)
+
+- [Getnative](https://github.com/Infiziert90/getnative)
+- [resdet](https://github.com/0x09/resdet)
+
+## [](.)
+
+- [](.)
+- [](.)
+
 ---
 
 # License
