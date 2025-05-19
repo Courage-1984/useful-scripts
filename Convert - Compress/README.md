@@ -29,3 +29,10 @@ The following one is also nice:
 **this is a very conveniant one**
 
 ### I prefer to always have my images as png but webp is also a good option, espescially regarding file size.
+
+## [bulk_svg_to_png.py](./bulk_svg_to_png.py)
+
+> 
+
+****
+

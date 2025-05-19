@@ -3,10 +3,10 @@ from PIL import Image
 
 # --- User Configuration ---
 # Set this to the path of the directory containing your input images.
-input_directory = "C:/Users/anon/ai/training/train/lq/4"
+input_directory = "C:/Users/anon/ai/training/train/first_icons_redone/_png"
 # Set this to the path where you want to save the processed images.
 # The script will attempt to create this directory if it doesn't exist.
-output_directory = "C:/Users/anon/ai/training/train/3channel/lq/4"
+output_directory = "C:/Users/anon/ai/training/train/first_icons_redone/_png_noA"
 # ------------------------
 
 
